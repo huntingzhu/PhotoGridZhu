@@ -1,0 +1,7 @@
+{
+    "host": "http://localhost:3000",
+    "S3AccessKey": "Type your own key here",
+    "S3Secret": "Type corresponding secret here",
+    "S3Bucket": "Type your own S3 bucket name here",
+    "dbURL": "Type your mongoDB URL"
+}
